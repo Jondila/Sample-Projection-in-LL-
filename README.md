@@ -1,2 +1,2 @@
 # Sample-Projection-in-LL-
-SPGL is a sample projection generator for linguistic landscape studies
+SPLG is a versatile software tool designed for broad reuse in Linguistic Landscape research, sociolinguistics, education, and digital humanities. It enables researchers to generate and visualize linguistic sample projections from signage data, supporting multilingual fieldwork in urban and rural contexts. The tool also serves as an educational aid in digital linguistics instruction, and its potential for integration with mapping and corpus tools opens future opportunities in computational and spatial linguistics.
